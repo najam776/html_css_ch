@@ -17,14 +17,15 @@ ul li {
 
 a {
     text-decoration: none;
-} 
-#how-it-works{
+}
+
+#how-it-works {
     display: flexbox;
 }
 
 
 @media (max-width: 650px) {
     nav {
-      flex-direction: column;
+        flex-direction: column;
     }
 }
